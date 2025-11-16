@@ -1,7 +1,6 @@
 # Dynamic Factor-Augmented Macroeconomic Forecasting with FRED-MD
-
-# **Research Papers**:  
-[Individual Dissertation (PDF)](https://github.com/ZealousEar/FRED-MD/blob/main/FRED-MD_Individual_Dissertation.pdf) | [Group Dissertation (PDF)](https://github.com/ZealousEar/FRED-MD/blob/main/FRED-MD_Group_Dissertation.pdf)  
+## **Research Papers**:  
+# [Individual Dissertation (PDF)](https://github.com/ZealousEar/FRED-MD/blob/main/FRED-MD_Individual_Dissertation.pdf) | [Group Dissertation (PDF)](https://github.com/ZealousEar/FRED-MD/blob/main/FRED-MD_Group_Dissertation.pdf)  
 
 > **Project Type**: Final year dissertation
 > **Degree**: BSc Data Science, School of Mathematics - University of Bristol  
