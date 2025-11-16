@@ -39,7 +39,7 @@ A comprehensive implementation of factor-augmented regression (FAR) models for m
   - Multiple selection criteria implemented:
     - **Kaiser Rule**: 31 factors (eigenvalue > 1)
     - **90% Variance**: 41 factors
-    - **Bai-Ng IC**: 4 factors *(selected for parsimony)*
+    - **Bai-Ng IC**: 3 factors *(selected for parsimony)*
     - **Bartlett Test**: 10 factors
 - **Rationale**: Adopted Bai-Ng criterion to avoid overfitting in high-dimensional settings (N=134, T=228)
 
